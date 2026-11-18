@@ -1,0 +1,2 @@
+split,accuracy,macro_precision,macro_recall,macro_f1,training_time_seconds
+Validation,0.6306068601583114,0.7032260795496139,0.5789377861007075,0.5971625409845879,1.6444220542907715
