@@ -9,3 +9,6 @@ Pillow
 scikit-image
 jupyter
 tqdm
+torch
+torchvision
+Flask
