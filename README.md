@@ -8,7 +8,7 @@ confidence scores, model comparisons, and per-class validation scores.
 
 - Python with the project dependencies
 - Node.js and npm
-- The trained model files in `models/`
+- The trained model files in `models/` 
 
 ## Start the app
 
