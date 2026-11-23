@@ -12,7 +12,7 @@ confidence scores, model comparisons, and per-class validation scores.
 
 ## Start the app
 
-Run these commands from the repository root.
+Run these commands from the repository root. 
 
 1. Install Python dependencies (once):
 
