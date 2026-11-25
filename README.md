@@ -21,7 +21,7 @@ Run these commands from the repository root.
    ```
 
    If you are not using the repository's `.venv`, replace that executable with
-   `python`.
+   `python`. 
 
 2. Generate or refresh model comparison reports (run when reports are missing
    or models change):
