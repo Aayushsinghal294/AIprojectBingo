@@ -5,7 +5,7 @@ paper, plastic, and trash. The React dashboard displays image predictions,
 confidence scores, model comparisons, and per-class validation scores.
 
 ## Requirements
-
+ 
 - Python with the project dependencies
 - Node.js and npm
 - The trained model files in `models/` 
@@ -21,7 +21,7 @@ Run these commands from the repository root.
    ```
 
    If you are not using the repository's `.venv`, replace that executable with
-   `python`.
+   `python`. 
 
 2. Generate or refresh model comparison reports (run when reports are missing
    or models change):
