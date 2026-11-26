@@ -5,7 +5,7 @@ paper, plastic, and trash. The React dashboard displays image predictions,
 confidence scores, model comparisons, and per-class validation scores.
 
 ## Requirements
-
+ 
 - Python with the project dependencies
 - Node.js and npm
 - The trained model files in `models/` 
