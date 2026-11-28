@@ -9,9 +9,9 @@ confidence scores, model comparisons, and per-class validation scores.
 - Python with the project dependencies
 - Node.js and npm
 - The trained model files in `models/` 
-
+  
 ## Start the app
-
+ 
 Run these commands from the repository root. 
 
 1. Install Python dependencies (once):
@@ -25,7 +25,7 @@ Run these commands from the repository root.
 
 2. Generate or refresh model comparison reports (run when reports are missing
    or models change):
-
+   
    ```powershell
    .\.venv\Scripts\python.exe src\evaluate_models.py
    ```
