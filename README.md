@@ -9,11 +9,11 @@ confidence scores, model comparisons, and per-class validation scores.
 - Python with the project dependencies
 - Node.js and npm
 - The trained model files in `models/` 
-
+  
 ## Start the app
-
+ 
 Run these commands from the repository root. 
-
+  
 1. Install Python dependencies (once):
 
    ```powershell
